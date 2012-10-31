@@ -15,7 +15,14 @@ $(document).ready(function() {
     'http://www.funnycommercialsworld.com/wp-content/uploads/2009/09/Asylum-626.jpg',
     'http://4.bp.blogspot.com/-s46kQSe1D1g/UIAOg1IvXQI/AAAAAAAAFWo/s2Aw3EYWlPI/s1600/american+horror+story+asylum+season+2008.JPG',
     'http://www.mountainsanatorium.net/images/s/sluttelshole.jpg',
-    'http://www.mountainsanatorium.net/images/f/femaleemployee.jpg'
+    'http://www.mountainsanatorium.net/images/f/femaleemployee.jpg',
+    'http://i664.photobucket.com/albums/vv3/matthewmcdowell/creepy.jpg',
+    'http://www.shockya.com/news/wp-content/uploads/deathly_hallows_creepy_villain1.jpg',
+    'http://2.bp.blogspot.com/-U1Oh6arF82U/TtuU2xyoCrI/AAAAAAAAACg/ggt-e5OsirE/s1600/asylum1.jpg',
+    'http://upload.wikimedia.org/wikipedia/commons/d/d6/Magdalen-asylum.jpg',
+    'http://1.bp.blogspot.com/-1x52QSQ5r8U/UHBfv2Dy1LI/AAAAAAAADBI/igiX66NvCug/s1600/American-Horror-Story-Asylum-S2-Poster-2.jpeg',
+    'http://ktismatics.files.wordpress.com/2011/04/shining-freaks.png'
+
   ];
 
   Hell.init = function() {
